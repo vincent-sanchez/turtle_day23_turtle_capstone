@@ -1,4 +1,4 @@
-# 100 Days of Code | Day 24 | Turtle Capstone
+# 100 Days of Code | Day 23 | Turtle Capstone
 
 main.py file was created for Day 24 of the 100 Days of Code: Python course from Dr. Angela Yu. 
 
